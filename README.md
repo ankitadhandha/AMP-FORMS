@@ -1,4 +1,4 @@
-# AMP-FORMS
+# AMP-FORMS (Form Submission with Page Update example)
 
 This example helps new implementers of AMP Forms.
 
