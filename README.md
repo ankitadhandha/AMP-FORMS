@@ -41,6 +41,4 @@ location /amp-forms/ {
    
    Jenkins testing
 
-Jenkins testing
-
-
+Jenkins testi
